@@ -1,0 +1,8 @@
+A ramificação e uma maneira de trabalhar em diferentes versoes de um repositorio de uma so vez. Por padrão, o repositorio tem uma ramificação
+definitiva denominada main. Quando se cria uma ramificação principal, esta sendo feita uma copia do main naquele momento. Se alguem fizer uma 
+alterações na ramificação principal enquanto você trabalha uma copia, você recebera essa atualizacões.
+Assim fica mais facil de monitorar o projeto e saber quais alterações foram feitas por que ao trabalhar em uma empresa voce vai ter varias
+pessoas na sua equipe, de varios lugares do mundo.
+Tambem podemos corrigir algo que foi feito de errado e corrigir antes de manda para produçao ou ate mesmo antes de fazer um deploy, cada departamento 
+vai ter sua propria branch ou ate mesmo seu proprio repositorio assim fica mais facil de administrar um projeto grande onde vai se ter varios arquivos 
+para se trabalhar.  
