@@ -6,3 +6,7 @@ pessoas na sua equipe, de varios lugares do mundo.
 Tambem podemos corrigir algo que foi feito de errado e corrigir antes de manda para produçao ou ate mesmo antes de fazer um deploy, cada departamento 
 vai ter sua propria branch ou ate mesmo seu proprio repositorio assim fica mais facil de administrar um projeto grande onde vai se ter varios arquivos 
 para se trabalhar.  
+As ramificações são uma ferramenta fundamental no Git que permite que você trabalhe de forma mais organizada e eficiente em seus projetos. Ao entender como criar, usar e mesclar ramificações, você pode aumentar sua produtividade e colaborar melhor com outros desenvolvedores.
+Isolar a correção de um bug em uma ramificação específica.
+Quando suas alterações estão prontas, você pode mesclar a ramificação com a principal. O Git tentará automaticamente combinar as alterações, mas pode haver conflitos que precisam ser resolvidos manualmente.
+O Git, um sistema de controle de versão, utiliza ramificações para criar cópias independentes de um projeto. Isso permite que você trabalhe em diferentes funcionalidades ou versões simultaneamente, sem afetar o código principal. Cada ramificação é como um ramo em uma árvore, com seu próprio histórico de alterações.
